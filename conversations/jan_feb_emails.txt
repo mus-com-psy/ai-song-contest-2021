@@ -1,0 +1,152 @@
+Jemily Rime
+
+4 Feb 2021, 07:24
+
+to me, Zongyu, Mark
+Hi All,
+
+Hope you're doing well!
+I had a look at the genres_in_gm_dataset.json file and had a think of the genres which could be most impactful and "efficient" for this song. For instance, as much as I like Fusion Jazz, I don't think it would mesh well with the intended output?
+Do you think we could stick to the varients of pop, soul, R&B, electro, rock, possibly also including the gospel datasets for its harmonic richness?
+Let me know if that sounds reasonable. My initial impulse is to keep things quite neutral so we don't feel restricted by mismatching melodies and beats.
+
+Tom, did you want me to give you an edited version of the file? I wasn't sure if you expected pointers or a reviewed .json! (As a side note, I appreciated the fact "Bal Musette" was included as a genre, reminded me of 100% of the weddings I have attended in France.)
+
+On the topic of DAW, I guess we'll agree with Liam on what to use? I might need a license or to simply use a free trial, as the PC I'm working from is low on options (Mixbus or Audition, which really aren't the best for finished products in my opinion).
+
+Also, this is what badgers sound like according to the BBC soundbank!
+
+All the best,
+Jem
+
+
+On Fri, 29 Jan 2021 at 17:50, Tom Collins <tom.collins@york.ac.uk> wrote:
+
+    Hi all,
+
+    Thanks for all these interesting initial thoughts.
+
+    Karen van Dijk from the host organisation has invited us to join a slack dedicated to the contest:
+    https://join.slack.com/t/aisongcontest/shared_invite/zt-l660jg10-eiXIKTso2D99Gawi9_Gdvg
+    and a URL to check back on occasionally is https://aisongcontest.com/
+
+    So Jem, thanks for the links and if I understand correctly, a lot of those songs contain repitched, interesting/unusual sound samples in the service of creating bass or other independent lines? For my own understanding, I had a play with this using the sound of steam in a pipe: https://editor.p5js.org/tomthecollins/sketches/Q16bZZS8C Of course, it would probably be better for this project if we could do something similar from whatever DAW we center on, assuming we will center on a DAW to be agreed by you and Liam at some point. The Australian team did something like this last year, using the sounds of koalas apparently to make a so-called koala synth! It wasn't necessarily obvious in the final sound of the track, but it made a nice story and was enjoyed as a creative use of AI. Not sure what a stereotypically British equivalent would be: sampling the sound of an old person tutting in a queue-jumping scenario? A badger synth -- do badgers make noises?!
+
+    Some organisational matters I've tried to take care of:
+
+        I've invited you all to a Git repo called ai-song-contest-2021. My hope is we can try to keep track of as much creative conversation and activity as possible here (and code when it comes to that) without it becoming too obstructive to creativity. Treading a line between scientific openness/replicability and artistic freedom in projects like this is tricky;
+        I've also made a folder in the Music Computing and Psychology Lab Shared Drive: Joint projects -> AI Song Contest -> 2021. I'll copy-paste stuff from the this email chain into a "Minutes/notes"-type document there and I'll take responsibility for occasionally committing that to the repo (which is publicly viewable, just so you're aware);
+        I think the Audio for ML folder in the Drive is a good place to leave stuff for Mark and Alex to look into wrt training algorithms. Mark, remember there's the server in my office that you can use for training too if appropriate, but happy to support access to Viking if necessary;
+        Jem, one file in particular you could take a look at is in the repo: initial_conversations -> genres_in_gm_dataset.json. The labels are a little messy (you'll notice some misspelt or inconsequential variants as you scan down the list), but that's an indication of the types of MIDI files we have at our disposal, thinking we would like to retrain Markov and deep learning approaches for the sake of some melody/chord/bass/drums generation. If you let me know which genres are of most interest to you, I can restrict the dataset to those and that might also give Alex a few pointers for if he wants to try and crawl/collect any lyrics data.
+        I'm generally positive about doing as much in the wave domain as Mark feels he has time for. We can roll back to symbolic-domain options here and there if things don't go smoothly or if there isn't time.
+
+    I suppose another creative use of AI might be to try to learn and generate some graph representations of abstract musical structures. We could then generate the definitive version of the song by filling such a generated structure with loops that are already finished by us. Then the site hosting the song could give the listener a different structure each time, as well as keeping some content (like any sax solo or hook) dynamic too.
+
+    Have good weekends,
+    Tom
+
+
+
+    On Fri, 29 Jan 2021 at 10:59, Zongyu Yin <zy728@york.ac.uk> wrote:
+
+        Hi Mark,
+
+        Sure, training on the Viking stack would be more efficient, based on my recall, setting up on Viking is a bit tricky, but let me explore it once more in advance so that we can get onto it easily later.
+
+        Have a great weekend,
+
+        Alex
+
+
+
+        On Fri, 29 Jan 2021 at 11:14, Mark Hanslip <mwh512@york.ac.uk> wrote:
+
+            Feel free to send any sample libraries over Liam - ~2 hours of timbrally cohesive audio sampled at 22050 seems to be what works.
+
+            If you can face assembling a dataset of Amen breaks then I'd be happy to give it a train! If we concatenated the resulting samples it'd probably sound like a distorted Squarepusher / Venetian Snares drum track, could be fun. I have a hunch that the Amen break might be too complex (and result in a noisy mess) but the only way to find out is to give it a try.
+
+            WaveGAN doesn't have a GUI, I run it from the command line with all the dependencies in a Conda environment. It totally hogs the GPU - it uses all 24GB of mine, though I suspect that might be Tensorflow just using all of what's available - it might run on less.
+
+            From a practical point of view, if we're going to be running multiple WaveGAN experiments as part of this project then it might be good if we set it up on the Uni's Viking stack to save my electricity bill! (Alex I would probably need your help if we did this)
+
+            Cheers,
+
+            Mark
+
+
+            On Thu, 28 Jan 2021 at 16:00, Liam Maloney <liam.maloney@york.ac.uk> wrote:
+
+                I'll do a bit of exploration into how the chopped vocal lines are typically done. I suspect we're probably in Kontakt territory there but that's not too hard to replicate in something like Max.
+
+                I've got a fairly extensive library of classic electronic music/pop drum machine samples. It might be interesting to actually feed WaveGAN with the standard or even prototypical samples that are the building blocks of most popular dance pop songs. I think it shows an interesting methodology to build something for a target genre on the established conventions of said target genre. I'm all for it Mark.
+                Also thinking about the genre conventions of dance/pop (and this is more a question of interest/boundary pushing) how do you think WaveGAN would deal with something like the Amen break? For reference: https://www.vice.com/en/article/wnadvn/medlars-ten-favourite-amen-break-tracks (I'd recommend listening to the Amen chops done in Remarc's RIP). I'm in no way wedded to this, its more of a curiosity. I need to get the dependencies installed and run it. Does it have a GUI?
+
+                Btw Mark, this is the thing I mentioned yesterday. https://github.com/CorentinJ/Real-Time-Voice-Cloning
+
+                This should be fun!
+                Liam.
+
+                On Thu, 28 Jan 2021 at 15:44, Mark Hanslip <mwh512@york.ac.uk> wrote:
+
+                    Thanks for the playlist Jem! And nice to meet you and Liam at the meeting. Enjoying the Marian Hill stuff in particular.
+
+                    I'm definitely on board with the soundworld not being super clean - if we're using waveform-domain ML then we should be comfortable with a bit of noisiness!
+
+                    I'm probably overstepping my remit here, but I thought it might also be fun to generate the drum samples using WaveGAN (demo here), and put the beats together using the Atlas sequencer I mentioned. By the time I've finished my internship in March I'll have a decent handle on how it works, and I was planning to generate some drum samples as part of the work anyway. I realise Liam and Tom will have their own ways of assembling beats though and more experience in doing it.
+
+                    Looking forward to working on this!
+
+                    Cheers,
+
+                    Mark
+
+
+
+
+                    On Wed, 27 Jan 2021 at 19:42, Jemily Rime <jir506@york.ac.uk> wrote:
+
+                        Hi all !
+
+                        Thanks for the link, Tom, I will have a look as soon as I can.
+
+                        Turns out my playlists didn’t have any of the sort of songs I was talking about  (aside from the Marian hill track). However, even if this isn’t exactly my cup of tea, I still believe it could be an interesting direction to take, as it could enable creative and innovative opportunities in the generation, songwriting/assembly and production phases. Also, the lyrics are usually quite simple, which, from what I gathered earlier could be one less problem for us?
+
+                        I’ve tried to stick to post 2015 top 40 electro-pop songs, and the most telling examples in each track are often contained in the verses which follow more simple musical arrangements (though heavily produced, so I am using the term "simple" to talk about the composition rather than the piece itself)
+
+                        Down (marian hill) https://youtu.be/DpMfP6qUSBo
+
+                        Bad Liar (Selena Gomez) https://youtu.be/NZKXkD6EgBk
+
+                        Cool girl (Tove Lo) https://youtu.be/XsFneCExrCQ
+                        New Rules (Dua Lipa) https://youtu.be/k2qgadSvNyU
+
+                        Delicate (Taylor Swift) https://youtu.be/tCXGJQYZ9JA
+
+                        Shape of you (Ed Sheeran) https://youtu.be/_dK2tDK9grQ
+
+                        Get it right (Diplo) https://youtu.be/8BQqX3bUqtY
+
+                        Stay (Zedd) https://youtu.be/h--P8HzYZ74
+
+
+
+                        Another thing which might be interesting to note if we are thinking of giving the saxophone a prominent part in the track is that a couple listed above use a “pop-drop” (a chorus building up to a “drop” followed by a more instrumental break - though sometimes also featuring sampled/modified vocals - before starting a new verse). Having a break like this could give us an opportunity to showcase some fun sax samples if we end up going in that direction?
+
+
+                        On the other hand, it may be worth also considering attempting something a bit less polished and commercial to contrast with the machine influence that will contribute heavily to this project? I’d find it just as fun to try to do something more soul-funk even if we can’t use the whole range of real instruments usually associated with the genres. Just a thought either way, hopefully, this list clarifies what I meant earlier.
+
+                        Looking forward to chatting more in the coming months.
+
+                        All the best
+
+                        Jem
+
+
+                        On Wed, 27 Jan 2021 at 16:58, Tom Collins <tom.collins@york.ac.uk> wrote:
+
+                            Attached a screencast of me messing around with Citizen DJ, to save you the bother!
+
+                            I suppose it's interesting because behind it are a very large number of pre-cut samples that we might be able to use to train in the waveform...
+
+                            All best,
+                            Tom
