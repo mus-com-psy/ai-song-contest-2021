@@ -1,0 +1,27 @@
+{
+  "name": "ai-song-contest-2021",
+  "version": "0.0.0",
+  "description": "The paper trail of ideas and any code in support of our sumission to the 2021 AI Song Contest",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mstrcyork/ai-song-contest-2021.git"
+  },
+  "keywords": [
+    "intelligence",
+    "artificial",
+    "music"
+  ],
+  "author": "Tom Collins, Mark Hanslip, Liam Maloney, Jemily Rime, Lynette Quek, and Zongyu (Alex) Yin",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mstrcyork/ai-song-contest-2021/issues"
+  },
+  "dependencies": {
+    "maia-markov": "^0.0.30",
+    "maia-util": "^0.2.27",
+    "nodeplotlib": "^0.6.5",
+    "seed-random": "^2.2.0",
+    "@tonejs/midi": "^2.0.27",
+    "uuid": "^3.1.0"
+  }
+}

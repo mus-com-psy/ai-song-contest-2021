@@ -1,5 +1,7 @@
 __pycache__
 
+algorithms/run_maia_markov/dexplore/
+
 # Dependency directories
 node_modules/
 
