@@ -1,1 +1,133 @@
+Tom Collins <tom.collins@york.ac.uk>
+	
+09:14 (3 hours ago)
+	
+to Mark, Jemily, Lynette, Liam, Zongyu
+Thank you very much, Jem and Mark, for these additions!
 
+I'm going to resist the temptation to look at/listen to the lyrics/sax in advance, and I think we should start the session tomorrow by each of us spending a few minutes describing/presenting what we're bringing to the table. Liam, are you still OK to set up a DAW session where lots (if not everything) is available to try out? And does Jem need to install anything in order to use remote recording tech? As noted previously, fine if we want to do a clean/better vocal recording on a separate occasion, but would be good if we have the ability to lay down some rough vocals and come up with 2-3 draft songs/song sections tomorrow. I have longer than the hour indicated by the calendar event, but fully understand if others don't.
+
+In terms of how much you look at/listen to in advance, of course that's completely up to you. I just like the adrenaline rush of going into a writing session without having seen/heard all the ideas beforehand! I checked through a good few outputs from MAIA Markov, mainly to make sure there weren't bugs (there was an interesting one with indexOf() that was messing up drum generation for a while!) and avoid me sharing utter buggy dross and asking you to listen to it!
+
+All best,
+Tom
+
+
+
+
+On Wed, 28 Apr 2021 at 08:04, Mark Hanslip <mwh512@york.ac.uk> wrote:
+
+    Hi all,
+
+    I've generated and curated some outputs from after 14000 and 25000 iterations and put them in my folder. Obviously in order to be useful they'll need denoising and editing into riffs (or whatever you want to do with them!) but I think they're a decent starting point for some short phrases. 
+
+    I want to see what happens after say 40k so I will keep training until the end of the week - I'll share some more stuff with you then. 
+
+    See you all tomorrow,
+
+    Mark
+
+    On Wed, 28 Apr 2021 at 12:28, Jemily Rime <jir506@york.ac.uk> wrote:
+
+        Hi Tom,
+
+        Thanks for these, had a listen to some files, there is definitely some interesting material! I will try and have more of a selection by tomorrow, maybe a couple of more fleshed-out ideas as well. I had no problem importing them on my DAW, so that's good!
+        I've put in a file a few song lyrics generated using theselyricsdonotexist.com that I think had potential (I've greyed out the nonsensical/bad lines or words). It should be enough to get things started! 
+        Looking forward to tomorrow,
+
+        All the best
+        Jem
+
+
+
+        On Wed, 28 Apr 2021 at 12:22, Tom Collins <tom.collins@york.ac.uk> wrote:
+
+            Following up to say that melody, chord, bass, and drum MIDIs are now all present in the folder linked in previous email. The web interface has them all too, and is nearly all styled in the loud purple chosen by the competition organisers this year!
+
+            Let us know if you have comments/issues with any of the materials, especially them sounding twice as slow in a DAW as online, so that I can fix ahead of tomorrow.
+
+            Mark, if you have materials to share ahead of tomorrow, it would be a help to hear them ahead of time. Alex too, but I realise your algorithm is meant to work at the stage where we have some audio already.
+
+            All best,
+            Tom
+
+
+
+            On Tue, 27 Apr 2021 at 14:19, Tom Collins <tom.collins@york.ac.uk> wrote:
+
+                Hi all,
+
+                I just finished working on and running a couple of scripts to generate some melodies for Thursday's session. There are two ways to try out the resulting melodies:
+
+                    Go to https://drive.google.com/drive/u/0/folders/1IjKz62ovF3iNKvc1lsdlAZXwEH2gFPe7 , download them, and import into your DAW of choice;
+                    Go to https://maia-suggest-2021.glitch.me/ on Chrome (site still under construction!, changed colour mainly to avoid confusion with last year's site), select "Gospel/pop melody" from the dropdown, wait for the model to load (play button will become available when it has loaded), and re-use the seeds that constitute the filenames in the above folder. For instance, using the seed "Brown" (it's case-sensitive) will produce the same melody heard in "melody_Brown.mid".
+
+                If there is any discrepancy between DAW and web interface experience, it will probably be a scale-factor issue due to MIDI export/import. But it would be useful if Jem or Liam could let me know if there is any such discrepancy so I can correct and regenerate the MIDIs in good time for Thursday.
+
+                I can provide drums, bass, and chords too, but not until later tonight my time. Hopefully enough food for thought for Jem and anyone else ahead of Thursday. Let me know how you find the quality. I didn't listen to many of them yet. The genre breakdown I have available to me via this dataset is attached, and I'll paste the balance I used to make this melody dataset. Feel free to let me know if you'd like any "different ingredients", either for a re-run of the melody training data or for drums, bass, and chords.
+
+                Looking forward to Thursday 4 pm UK time. Haven't heard back from One Tribe TV about whether to Zoom-record our session. If everyone is OK with doing so, I am inclined to hit record on the off-chance it helps them/us understand our process!
+
+                All best,
+                Tom
+
+
+                const styleSampleSizes = {
+                  "Rhythm & Blues, gospel": 56, // out of total 56
+                  "gospel": 9, // out of total 9
+                  "Rhythm & Blues": 25, // out of total 379
+                  "Rhythm & Blues, soul": 25, // 364
+                  "pop, Dance pop": 25, // 718
+                  "pop, europop": 25, // 94
+                  "Synthpop": 25, // 43
+                  "pop, Synthpop": 13, // 13
+                  "pop, Electropop": 25 // 114
+                }
+
+
+
+                On Sun, 25 Apr 2021 at 20:42, Tom Collins <tom.collins@york.ac.uk> wrote:
+
+                    Hi Mark and all,
+
+                    Apologies for slow reply and thanks for sharing the three versions in the wav. They all sound pretty interesting and I can imagine them working well against a good beat. In that context we'll probably have a better idea of whether au naturel, denoised, or fx-augmented works best.
+
+                    As for making stuff for TV, they are interested in coming to York to film. I've begun seeking permission for this. They may also want screen capture of some computational process or other. I'll keep everyone posted. I've told Mimi (the researcher/producer) who everyone is and we'll see what information etc. she's interested in capturing over the coming weeks.
+
+                    She did tell me in an email Fri that the intended transmission date is 24 May. The AI Song Contest songs aren't due to be released publicly until 1 June. This means that if we do a song for the ONE Show, it'll probably be a second song using the same AI starting materials but taking it in a different direction, so we don't get in trouble with AI Song Contest folks for releasing something before we're allowed to.
+
+                    All best,
+                    Tom
+
+
+
+                    On Thu, 22 Apr 2021 at 12:33, Mark Hanslip <mwh512@york.ac.uk> wrote:
+
+                        Here's a link to the denoising work Liam did on some of my older GAN samples - https://drive.google.com/file/d/1vGBIsH1vFRwteobB9KZMsyzzIqAxJFJT/view?usp=sharing
+
+                        First version is noisy, second is denoised, third is with compression and reverb.
+
+                        Good to know about the Google Drive desktop extension, the web interface can be so slow!
+
+                        I did wonder if the TV lot wanted us to document our individual contributions - if it's specifically requested then I'd happily make a v short video pretending to make the dataset (!) and showing the training, generation and curation processes. I'm going to be doing something similar to promote a commission I'm working on at the moment so it'd be good practice!
+
+                        Mark
+
+
+
+                        On Thu, 22 Apr 2021 at 17:18, Tom Collins <tom.collins@york.ac.uk> wrote:
+
+                            No probs, Mark.
+
+                            Thanks everybody. Really excited about this project and next week in particular.
+
+                            I'll check with Mimi if she would like us to Zoom capture anything next week -- my feeling is that's when some interesting stuff is going to go down! Even if she doesn't use that footage, I think it might give her a clear idea of what we did so she knows what to re-record/fake in a future filming session.
+
+                            Mark or Liam, please can you reshare that google drive link from the meeting chat? I forgot to copy it and didn't get a chance to listen mid-meeting.
+
+                            You should all have access to this folder: https://drive.google.com/drive/u/0/folders/15Z-UT53M1bg_MnKcR7YBJQwOevVf7DwB (just added a couple of others who didn't have access already, so check your mail in case there's an invite). Please use it for assembling the "raw materials" for next week.
+
+                            Liam, have you got the Google Drive desktop extension? I find it useful for dragging dropping Drive content into projects quicker that using the web interface where you have to wait for audio materials to zip and download. Let me know and I can dig out a link if necessary. Might speed things up prepping for and doing next week's meeting.
+
+                            All best,
+                            Tom
