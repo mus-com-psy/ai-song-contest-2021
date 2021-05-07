@@ -79,17 +79,17 @@ midiDirs.forEach(function(midiDir, jDir){
   console.log("files.length:", files.length)
 
   files.forEach(function(file, iFile){
-    console.log("file:", file)
-    if (iFile % 10 === 0){
-      console.log("FILE " + (iFile + 1) + " OF " + files.length + ".")
-    }
+    // if (iFile % 10 === 0){
+      console.log("FILE " + (iFile + 0) + " OF " + files.length + ".")
+    // }
+    console.log("file:", file.split(".")[0])
     try {
       const midiData = fs.readFileSync(
         path.join(mainPath["midi"], midiDir, file)
       )
       const midi = new Midi(midiData)
       const vtrack = tx.find_vocal_track(midi, false)
-      console.log("vtrack:", vtrack)
+      // console.log("vtrack:", vtrack)
       if (vtrack !== undefined){
         const timeSigs = [midi.header.timeSignatures.map(function(ts){
           return {
