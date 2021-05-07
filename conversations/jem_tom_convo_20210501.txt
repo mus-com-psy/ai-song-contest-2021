@@ -1,0 +1,71 @@
+Fri May 1st
+
+Jem and Tom met for another songwriting session (just under 2 hrs). We began with the lyrics and also listening over what the team came up with on Thu.
+
+We took what we felt were the two best candidates from Jem's lyrics generation run. We considered Alex's outputs too (indeed a line has made it into the chorus!) but felt like we want to use his algorithm again once we have audio, to suggest alternative lyrics. The two "Circus" songs had the most usable lyrics.
+
+So we started laying out a verse by listening to MAIA Markov melody outputs in the DAW and trying to find phrases that matched nicely the rhythm implied by the words, assuming what the team produced on Thu would be the chorus.
+
+Once we got a verse, we kept going. We heard a good melody for middle 8, so wrote that next. And kind of ran out of time to do the pre-chorus.
+
+We also spent some time listening to bass tracks for the verse.
+
+Jem said she would spend some time adding a draft vocal recording, also developing some of the above. Tom also developed it a bit more in his own direction (see below).
+
+
+Jem Sun May 2nd
+
+The song is going well! I found a groovy bass line and some nice chords. I generated a few more midi samples with the MAIA interface you made for the occasion, and got quite lucky with these few new things. I will include them in the file where I'll put the material for the song. I've added a bar between each sentence of the chorus - it sounded a bit ridiculous sang this quickly! Also this gives time for instrumentation to take a bigger part in the chorus. I haven't looked for good drums but I might have a quick look later.
+
+The song structure is done, anyhow! I didn't try fitting in the sax, but I think there should be plenty of space when we're thinking of arrangement and production. I will record the draft vocals this afternoon and send the result to everyone then.
+
+
+Tom Sun May 2nd
+
+I also played around with the song last night. I've attached a screen grab of the structure I devised so far (up to end of verse 2) and the accompanying audio. We could present Liam with the materials for both so he has a diverse set of draft materials to work with, or, if you like aspects of mine and want to incorporate them into your own effort, I'm sure he'd be equally happy with a single set of draft materials with which to work. Do you want to have a listen to my stuff (and I'm happy to do the same for yours) and see what we think?
+
+Some notes on my effort:
+
+    Pre-chorus I was trying to capture the rhythm I had in my head when I read the words. Gave it a melody and found a drum track that had a bit of natural build to it, but there would most likely need to be new sax material here for some call/response maybe, and continuation/variation of keys material.
+    Kept rhythmic skeleton of selected basslines, but altered harmony of these and the keys file (from Denim originally?) to fit with what I heard implied by the vocal melody (Em, C, Bm, D in verse; G, C, Bm, D in chorus).
+    Shall we vocode/transpose the "I liked it" so we get it in the pitch range indicated on the synth?
+    As it comes out of the chorus into the red-orangey section, for me that's where we have some fun with vocoding and possibly more interplay with sax.
+    Not sure what happens after verse 2 in terms of structure. Obvious thing is to do pre-chorus, chorus again, then what?!
+
+It would be good to remind everybody what to aim for with regards to production. For me, it's the tracks discussed previously. I like how all three delay their pop drop ("big sound", whatever you want to call it!) until after what I hear as the chorus. I'm not sure we can -- I feel like the big moment in our song so far *is* the chorus and that's where the texture builds to a climax in my version at least.
+
+
+Jem Sun 2nd May
+
+Hi Tom,
+
+I really liked the build in your version, and your drum pick is probably more fitting to the kind of progression we're aiming for! I think the main difference between yours and the one I am attaching to this email is that you used sax as a hook in the background whereas I used a bass line (tweaked from "As", if you want to have a listen to the original midi). I used a "double bassy" sound, I think I like the vibe it gives the first verse. The chorus definitely misses a bassline, but I was hoping we could infer one later down the line depending on what arrangements we chose.
+
+I agree, I think, the "big moment" is the chorus too. You'll hear a light drop before it in the file I'm sending you. Obviously, since we didn't settle on a melody for the pre-chorus the one I used is different. Not sure which one I like best, I will give it another listen! 
+
+I didn't include sax in my draft, but I can easily imagine it in the chorus as a "back and forth" with the vocals, potentially in the bridge, or as its own section before or after the chorus. You'll see, the song is about 2:15, which really isn't long enough for a full song. It could benefit from a full instrumental break near the chorus! 
+
+The chords I am using came from "Truth" and "for" for the verse and pre-chorus respectively and "infirm" for the bridge (I just put in words from an Emily Dickinson poem). The tab goes:
+Verse:
+Em/B  _  C - Dadd9 _ x3
+CM7 _ Bm7
+
+Pre-chorus:
+Em7 _ Am/C - Dsus4 to D
+
+Chorus:
+C _ Bm/F# - E7sus _ x4
+G5/B - A/C# _ x2
+
+Bridge:
+D/A-E/B _ F#m/C# - C#m _ D/A - E/B _ B7sus - D6_ x2
+
+If you want to simplify the chords, no problem, I just took what MAIA gave out and transposed it in the right key! I think there could also be an additional bar between my verse and pre-chorus, and twice as much of the chorus chords. We could also double the first verse if we were chasing extra bars. I didn't sound too great today, some of my words are mumbled and some stuff is pitchy, but it should be enough to get an idea of what the song sounds like. 
+
+Happy to have vocoder on whenever it can bring something to the mix. It could even be put in during the verse instead of the keyboard? 
+
+For the end structure, I did 8 bars of bridge (life is a roller coaster ride...) and then 2x the chorus. I think once we find the instrumentation, finishing the song off will become much easier!
+
+Great news! I was a little worried to have to write another one of those so quickly. Obviously, I'd have been happy with my vocals being played during the program but I am already thrilled with having a song I co-wrote played on TV, I won't be fussy about it!  Whatever works, basically, I am happy with! I'd love to talk about songwriting with Mimi, just let me know when.
+
+I agree with your three main references, it would be great to emulate some of this in our track.
