@@ -1,0 +1,354 @@
+7 May 16:22
+
+Hi all
+...
+
+This is the latest version. Things to know:
+– The structure is now what we discussed yesterday in full. Jazzy intro, space at start and end for sax solo.
+– Have tried turning the intro section into sounding like an old 78 record. I'll do it properly if you like it and after we've tracked vocals.
+– The vocals are unchanged from previous versions (just think of them as example until Jem tracks her proper full takes)
+– The gap before the final chorus is a full bar. I'll change this to an unpredictable length right at the end of the process,
+– Tom, have swapped in your chorus alteration chords as requested
+– The final chorus is the sax and vocal together section. Thoughts?
+
+Best,
+Liam.
+
+
+
+8 May 06:33
+
+Thanks very much for developing these ideas further. I know Jem has committed to some weekend work on recording vocals, but Liam and others feel free to wait until Mon to come back to production matters as you wish. I'm weekend emailing because my pockets of time for work are fewer than I'd like, so taking every opportunity and currently the rest of the house is still asleep!
+
+– The structure is now what we discussed yesterday in full. Jazzy intro, space at start and end for sax solo.
+I like the jazzy start. I find the transition to electronica too abrupt. On a few listens I warmed to it, but I'll suggest an alternative anyway. I think the transition is happening in the right place (pre-chorus). I think the drums are great as is. Could we have a go at doubling the note material of piano/synth and contrabass/techno bass as the lyrics "Let's just step out of line" begin? Start the levels for synth bass and chord instruments real low at the start of the pre-chorus, and have them fade up to full as the melisma on "time" crosses the downbeat (0'41"). The acoustic instruments' levels should go down to nothing as the electronic ones come up. I suppose this brings into question the positioning of the sweep at 0'31". Could try taking it out as we have another at 0'48". Overall I'm thinking the first chorus should be where we have the big build and pop drop, but at the moment it feels like we've made the beginning of the pre-chorus the "big moment".
+
+– Have tried turning the intro section into sounding like an old 78 record. I'll do it properly if you like it and after we've tracked vocals.
+I liked this. Was wondering what the double bass sounds like an octave down, and/or if there's a way to make the double bass sound more human-performed. If there's not a better sample-based instrument, then I guess we stick with what we've got.
+
+– The vocals are unchanged from previous versions (just think of them as example until Jem tracks her proper full takes)
+Vocals are sounding great already! Through vocoding or recording, Jem could provide a couple of harmonisations to be tried in the middle 8 repeat. In general we have no vocal harmonies in this track. Not necessarily a problem but perhaps unusual.
+
+– The gap before the final chorus is a full bar. I'll change this to an unpredictable length right at the end of the process,
+Great, thanks.
+
+– Tom, have swapped in your chorus alteration chords as requested
+My apologies, Liam, I think the chorus sounds too sweet and major now! We can roll back to the same verse version of "From MM chords" throughout. For sake of the others: I realised I hadn't sent Liam a slightly more major version of the chords to go with the chorus. So if you compare "Circus 06_05_12v2 with Vox.wav" with "Circus 07_05_21.wav", you'll hear a difference in chorus chords. Overall I think I prefer the former. It's a bit more minor-ish, which works with the words.
+
+– The final chorus is the sax and vocal together section.
+I thought this worked well. In particular, it means as we come out of that final chorus, we're ready for fresh sax outro solo material. On the other hand, the previous transitions we have from chorus to sax interlude are probably my favourite parts of the song, so if people prefer to hear that a third time, so we get the sax riff on its own once more before fresh outro sax solo material, I would be happy with that too.
+
+At 3'17" there's an issue with the bass -- possibly a copy-paste error, where the loop begins partway through. It sounds like you've returned to verse bass there, which is fine by me, but think it just needs to include the opening Es of that bass loop.
+
+Also need to decide what 20 s clip we allow One Tribe TV to put in their show. Pre-chorus, chorus, and sax interlude (0'32"-1'10") is unfortunately too long. So then I'd say chorus to sax interlude (0'49"-1'05"). Hopefully the final "It feels good to me" isn't altered too much in the new vocal recording. Think that moment transitions really nicely! Liam, we could also provide a couple of fragments of just drums, or just bass etc. to One Tribe to use as background/filler. I've never made one of these films before, but my experience is they pepper it with background music. We can also just wait to be asked about that.
+
+Very interested to hear everyone else's thoughts. I think we're close and if we submitted what we had already, I'd be delighted! So thank you everybody for your excellent work on this.
+
+Alex and Mark, look forward to hearing some lyrics/sax alternatives early next week too!
+
+All best,
+Tom
+
+
+8 May 07:31
+Hi all,
+
+The attached docs is what I shared with Jem yesterday, the lyrics were generated by inputing the title "Circus" and the audio clips from "Circus 06_05_12v2 without Vox".
+
+What I only did is just manually removed a few bad words, but I still realised that the context of this version is a bit different from what we have currently, and each line does not perfectly align with the tracks, so I told Jem to check if there is anything that is interesting or worth to make changes based on that, but do not take pressure on it if there is not.
+
+Best wishes,
+
+Alex
+
+
+8 May 14:34
+
+Hi everyone,
+
+Hope you are having good weekends. 
+First, a few words on the latest version of the song:
+
+    Really loved the intro, but I agree with Tom, I thought the transition was a bit too abrupt
+    The 3rd chorus (voice+ sax) sounds like it has the potential to be really cool once I take the time to record a proper ad lib part (which I will, and hopefully get a couple of nice lines from it that'll work even better with the sax than what we have currently). 
+    If by the time I get a playback the "outro" sax bits are there, that's great, but if not, no worries, I'll just do a couple of versions and, Liam, you have full license to snip and pick any bits and pieces from those last bars of vocals you'd think work best after the sax has been added, or ignore it completely if we are going for a sax only outro.
+    It'd be great if I could have a playback (doesn't have to be the final form, as long as it's close enough) by Monday? Just so I have a day to sing.
+    Provided I have time, I will record one main vocal track, a double of that, a couple versions of ad-libs, and one or two tracks of potential harmonies. I don't want to flood Liam with files either, so I'll be editing my selection prior so he only gets the best of my takes.
+
+Then a few notes on Alex's Lyrics
+
+    I didn't find many lines that'd work with the flow of the song, except:
+    "Tell me who you are, (there)ought to be a show" which could work in the first prechorus (I think I prefer the lines we have at the moment, but I'll go with the opinion of the group) and "Like a cry, night and sight" which could replace "you sit inside a caravan" in verse 2. We are losing the poor rhyme of 'over and / caravan' and the scansion of "you sit" which I liked, but it's a solid alternative. 
+    Please, if anyone else sees lyrics that could work in the song let me know, I've tried to match them to the song, and these are the only two places I could see an easy switch, but I probably missed some.
+
+    I probably forgot some things, but I will email back if anything else comes to mind. Thanks Liam for the amazing job you've done with the song, and thanks Alex for those new lyrics.
+
+    Have good evenings,
+
+    All the best
+    Jem
+
+
+9 May 15:00
+
+Thanks, Jem.
+
+Agreed with your first cluster of bullet points.
+
+Alex, thanks very much for these lyrics. A very interesting read.
+
+Jem, I'd be happy to see "Like a cry, night and sight" replace "you sit inside a caravan", but at the same time, the latter has grown on me and the caravan/house imagery on adjoining lines has a certain poetry to it!
+
+Agree I prefer the pre-chorus as is. It's Eurovision magic.
+
+I came up with this selection from Alex's suggestions, which could be sung to pretty much the same melody when the middle 8 repeats if you like:
+Ready to get away
+But it's okay
+heart of a broken heart
+oughta be a show
+
+All best,
+Tom
+
+
+10 May 06:04
+
+Hey all,
+
+I just had a first listen through to the latest version - I love how the new intro sounds, but agree with Tom's point in an earlier email that the verse (?) section starting at 49s sounds too sweet and major-y now - the intro is harmonically pretty hip so I think what follows should be similarly so.
+
+Anyway, getting back in my box, I've uploaded some phrases for the intro section - they'll probably need messing with so that they work rhythmically but I think they could be a good fit with the new intro - ...
+
+I'll upload some phrases for my outro solo asap.
+
+Cheers,
+
+Mark
+
+
+10 May 08:39
+
+Uploaded a couple of 4 bar phrases for the outro - we probably need one or two more, I'll try and do those tomorrow
+[Mark]
+
+
+10 May 09:06
+
+Just had a listen to all these, Mark. They're sounding great.
+
+I probably sound like a broken record at this point, but I think minimal/no noise reduction will sound good with the opening 78 effect...
+
+Liam, please let me know if you're having any trouble adding these to the mix and I'll be happy to join a call to help!
+
+All best for now,
+Tom
+
+
+10 May 16:34
+
+Hi all
+Latest versions are in the drive.
+Vocal version: ...
+Instrumental version: ...
+
+I've implemented all the changes as far as I can tell. But there are two caveats to that. Firstly, the fade across didn't work very well so I've tried something else which is sort of a half way option. What do you think? Secondly, Mark's new sax noodles are AWESOME. I used them all to make the final solo. I personally really like it? What do we think? If we like it, then Mark is it possible to generate some more solo noodles for the opening?
+
+Let me know what you think. I'll do some more on it tomorrow night after work if you get back to me with changes etc.
+Liam.x
+
+
+10 May 16:53
+
+I genuinely clapped at the sax outro congratulating my empty living room. It was indeed AWESOME (the capitalisation is essential to translate how cool this outro sounded). 
+
+I think I liked the opening as is, also, the sax is a really nice surprise at the end I think, both for the musically inclined and for the tech nerds who realise what went behind generating these outputs. 
+The intro sounds both ethereal and groovy, which I think works well, particularly with the "no idea where the downbeat is" concept. 
+
+The fade didn't bother me, I quite liked how it all kicked in, but I'm curious to know what everyone else thinks of it.
+
+As I explained to Tom and Alex earlier, I have to record at night to avoid having birdsongs picked up by my mic (which has only been a problem for the past couple of weeks- I think there is a nest in the tree next to the room where I record things). If this seems like a good version for me to work on to Tom and everyone else (I certainly think it is), I might try recording this evening so I have a chance to do any necessary re-rec tomorrow, and so that I can have the time to edit my tracks during daytime.
+
+Great job Mark on these sax snippets, and Liam for putting everything together!
+
+Have good evenings,
+
+Jem x
+
+
+10 May 17:11
+
+Ah glad you're all enjoying the latest sax stuff! Nice work Liam. I'd like to tweak the timing of the high bit when we meet on Thurs, apart from that I think I'm happy with it. 
+
+It's fine to generate some more samples - there's a bit of faff as the checkpoints are on a remote machine, and curating / editing them takes a while. But it'd be nice to have some sax in the intro too so I'll upload another folder of samples in the next day or two. 
+
+Cheers,
+
+Mark 
+
+
+10 May 17:46
+
+I am enjoying all the changes/additions too.
+
+Thanks v much, Liam and Mark.
+
+As for intro sax solo, I do think it would be good to try one. I’ll see if there’s any scope for repeating material already used in the outdo.
+
+Maybe something timbral might even work too in the intro, what do you think Mark?
+
+Everything else sounding really great. I’m pumped, as the Americans say.
+Tom
+
+
+11 May 04:56
+
+Hi Tom,
+
+Interesting idea to use timbral material! I didn't train WaveGAN on that sort of stuff yet though - early results weren't great so I focused on melodic content instead. I'll generate some more phrases and send over asap.
+
+Mark
+
+
+11 May 14:00
+
+Hi all,
+
+I respect what Jem was saying about the intro -- it might be best left as is. I've stuck a 1.wav and 2.wav from Mark's intro_noodles in the attached opening few seconds, as an alternative to consider with some low-key sax.
+
+If people like it, I can let Liam know the exact locations of these samples so he can insert them in his full version.
+
+All best,
+Tom
+
+
+11 May 14:21
+
+Hi all,
+
+I forgot to mention that I generated some more samples and made some more phrases today - they're in the folder named 'More_intro_noodles' in my audio output folder. I don't mind if we leave sax out of the intro or include it tbh. It might be nice to tweak my riff and solo a bit though if that's all I'm contributing though, I guess we can take a look on Thursday. 
+
+Cheers
+
+Mark
+
+
+12 May 12:11
+
+Thanks for pointing us to those, Mark.
+
+I've had a go at using 7.wav and 9.wav in the attached clip. Tbh I think I still prefer the first version I made.
+
+Going to listen to Jem's vocal materials a bit later, and look forward to the meeting tomorrow!
+Tom
+
+
+13 May 13:18
+
+Two follow-up remarks from our meeting:
+
+    Of the three sax intros we've now made, I think I prefer my original effort (called studio_4.wav in here). Liam I think you have exactly the same second phrase as me (Audio output from Mark -> intro_noodles -> 2.wav) in "Circus 130521.wav", but maybe an additional excerpt from Mark out the front of the first phrase (where I just used 1.wav). I put rapid fades in and out on mine to make them a bit more subtle, which you might be doing already not sure! Anyway, this point is a detail. But failing something concrete from Mark, I think 1.wav and 2.wav as used in studio_4.wav is the way to go here.
+    In the meeting I said I didn't like the delay on "It feels good to me" coming out of chorus 1 because it didn't leave a pause for thought before the sax has its big entry. Having had a couple of listens, I'm now on the fence! So do whatever you think sounds best there!
+
+All best,
+Tom
+
+
+14 May 06:34
+
+Hi Tom,
+
+Agree that the version of intro you just tagged is best so far sax-wise - I still think the first phrase should be more relaxed so I've uploaded [another AI-generated] phrase here I think would be more appropriate - ...
+
+Cheers,
+
+Mark
+
+
+14 May 10:42
+
+Hi all
+I've implemented all the changes we discussed yesterday. Plus I've added in the sax intro mark provided and I've kept in that delay at the end of chorus 1 (Tom said he was on the fence and I quite like it).
+
+These are two versions.
+Alex Vox.mp3 - this one uses verse 2 from Alex, and demonstrates the 'weird gap' approach to the end of the middle 8.
+...
+
+Exist Vox.mp3 - this one uses verse 2 from theselyricsdontexist, and demonstrates the vinyl slow down idea at the end of the middle 8.
+...
+
+So I just need final decisions on which lyrics we'll be using for verse 2 and which way we'll end the middle 8.
+Thanks
+Liam.
+
+
+14 May 11:41
+
+Hi Liam,
+
+Wow, I love this song!! Thanks Jem for doing more vocals and Liam for trying out yet more things in addition to what you've already done!
+
+Unless Jem objects, I think using a few more of Alex's lyrics would be a good thing in verse 2. We lose the caravan-house allusion but I'm OK with that.
+
+"I've kept in that delay at the end of chorus 1 (Tom said he was on the fence and I quite like it)." I'm with you now, Liam. As noted in the other thread, it seems to take me a few listens before I decide "Yeah, that's better".
+
+I'm a big fan of the vinyl slow down into the final chorus. So that version would be my preference.
+
+Final remarks:
+
+    I couldn't hear a spread on the first piano chord. I think just try that and keep it if it works for you Liam. You don't have to come back to us on it and you don't need to "humanise" any other parts of the piano track.
+    You'll check the mono mix no doubt. I am enjoying the chorus backing vocals and they sounded a little faint to me. But again, I defer to your expertise here.
+
+Thanks very much, and look forward to hearing the final "no-more-changes-can-be-requested" version!
+
+All best,
+Tom
+
+
+14 May
+
+
+
+14 May 17:37
+
+Hi all
+I've run off a .wav and .mp3 of the finished version. Unless there's something awful and drastic wrong with it let's consider this thing locked in now.
+Link: ...
+
+Thanks to Jem and Tom for bits of additional feedback. I've done it all (swapped in those few vocal syllables, spread that chord, switched over to Alex's 2nd verse, and done the vinyl spin down).
+
+Liam
+
+
+14 May 18:11
+
+Hi Liam and all,
+
+That's sounding great! Thanks very much everybody for your work on this project. I will crack on with populating the two contest docs.
+
+Lynette, if you are able to put two images in the contest docs folder on Monday, I will submit everything then.
+
+All best,
+Tom
+
+
+15 May 01:21
+
+Hi all,
+
+Sounds great!! I've added 3 images into the contest docs folder, one of the team and two for the song. There's the image of the team as I saw that option on the official website, so thought I'll include that in case we want to use that. Exciting!!
+
+Regards,
+Lynette
+
+
+15 May 07:10
+
+Hi everyone,
+
+I loved it! The images look great too! 
+I will send you an email Monday with a detail of what'll happen for the registration/distribution of the song.
+
+Well done everyone! 
+Have a good weekend,
+Jem
+
