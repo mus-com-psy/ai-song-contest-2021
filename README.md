@@ -2,7 +2,7 @@
 The paper trail of ideas and code in support of our submission to the 2021 AI Song Contest.
 
 ## Sax riffs/solos
-All the sax riffs and solos were assembled from samples generated using Chris Donahue's WaveGAN model, an audio-domain adaptation of the DCGAN architecture. An audio dataset of ~2hrs' length was created by Mark Hanslip, who recorded himself playing tenor saxophone in the intended key and tempo of the eventual song and applied some audio pre-processing (data augmentation, concatenation, silence truncation, resampling, chunking) before training WaveGAN on a single Titan RTX for ~4 days. 
+All the sax riffs and solos were assembled from samples generated using Chris Donahue's WaveGAN model, an audio-domain adaptation of the DCGAN architecture. An audio dataset of ~2hrs' length was created by Mark Hanslip, who recorded himself playing tenor saxophone in the intended key and tempo of the eventual song, applied some audio pre-processing (data augmentation, concatenation, silence truncation, resampling, chunking), and trained a WaveGAN on a single Titan RTX for ~4 days on the resulting dataset. 
 
 ## Lyrics
 
