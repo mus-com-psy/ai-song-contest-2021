@@ -3,6 +3,8 @@ The paper trail of ideas and code in support of our submission to the 2021 AI So
 
 ![](https://github.com/mstrcyork/ai-song-contest-2021/blob/main/audio_clips/draft_chorus_sm.mp3)
 
+<audio controls src="https://github.com/mstrcyork/ai-song-contest-2021/blob/main/audio_clips/draft_chorus_sm.mp3"></audio>
+
 ## Sax riffs/solos
 All the sax riffs and solos were assembled from samples generated using Chris Donahue's WaveGAN model, an audio-domain adaptation of the DCGAN architecture. An audio dataset of ~2hrs' length was created by Mark Hanslip, who recorded himself playing tenor saxophone in the intended key and tempo of the eventual song, applied some audio pre-processing (data augmentation, concatenation, silence truncation, resampling, chunking), and trained a WaveGAN on a single Titan RTX for ~4 days on the resulting dataset. 
 
