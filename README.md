@@ -4,7 +4,7 @@ The paper trail of ideas and code in support of our submission to the 2021 AI So
 ![](https://github.com/mstrcyork/ai-song-contest-2021/blob/main/audio_clips/draft_chorus_sm.mp3)
 
 <audio controls>
-  <source type="audio/mp3" src="https://github.com/mstrcyork/ai-song-contest-2021/blob/main/audio_clips/draft_chorus_sm.mp3"></source>
+  <source type="audio/mpeg" src="./main/audio_clips/draft_chorus_sm.mp3">
 </audio>
 
 ## Sax riffs/solos
