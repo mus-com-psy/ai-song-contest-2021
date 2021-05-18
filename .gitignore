@@ -9,11 +9,11 @@ node_modules/
 .DS_Store
 
 # Audio
-*.mp3
-*.wav
-*.ogg
-*.mid
-*.midi
+# *.mp3
+# *.wav
+# *.ogg
+# *.mid
+# *.midi
 
 # Images
 *.png
